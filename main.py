@@ -42,7 +42,7 @@ def average():
 while True:
     list = []
     print(" My first python program!")
-    print(" Simple Calculator in python by Malik Umer Farooq")
+    print(" Simple Calculator in python by kakani uthej")
     print(" Enter 'a' for addition")
     print(" Enter 's' for substraction")
     print(" Enter 'm' for multiplication")
